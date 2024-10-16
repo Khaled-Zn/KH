@@ -1,0 +1,13 @@
+{
+    "name": "Unregistered",
+    "alias": "unregistered",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Unregistered\\Providers\\UnregisteredServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

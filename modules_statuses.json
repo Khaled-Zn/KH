@@ -1,0 +1,16 @@
+{
+    "Admins": true,
+    "Auth": true,
+    "Client": true,
+    "CompleteInfo": true,
+    "Log": true,
+    "RolesPermissions": true,
+    "Shared": true,
+    "Traffic": true,
+    "Unregistered": true,
+    "WorkSpace": true,
+    "Image": true,
+    "Menu": true,
+    "Questionnaires": true,
+    "Statistics":true
+}

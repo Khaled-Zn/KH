@@ -1,0 +1,13 @@
+{
+    "name": "WorkSpace",
+    "alias": "workspace",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\WorkSpace\\Providers\\WorkSpaceServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

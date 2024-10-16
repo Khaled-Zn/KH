@@ -1,0 +1,13 @@
+{
+    "name": "Traffic",
+    "alias": "traffic",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Traffic\\Providers\\TrafficServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "CompleteInfo",
+    "alias": "completeinfo",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\CompleteInfo\\Providers\\CompleteInfoServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
